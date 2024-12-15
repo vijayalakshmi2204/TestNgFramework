@@ -1,0 +1,5 @@
+com\training\utilities\ScreenshotUtilities.class
+BasePackage\BaseTest.class
+com\training\utilities\PropertiesReader.class
+BasePackage\BasePage.class
+com\training\utilities\ExcelFileReader.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="com.training.testcases.UsermenuTest">
+        <methods>
+          <include name="T6usermenudropdown"/>
+          <include name="T6SelectMyProfileoptionfromusermenu"/>
+          <include name="Beforemethod"/>
+        </methods>
+      </class> <!-- com.training.testcases.UsermenuTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

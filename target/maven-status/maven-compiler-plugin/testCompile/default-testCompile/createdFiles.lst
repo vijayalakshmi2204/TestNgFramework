@@ -1,0 +1,4 @@
+com\training\pages\Loginpage.class
+com\training\testcases\Logintest.class
+com\training\testcases\UsermenuTest.class
+com\training\pages\HomePage.class
